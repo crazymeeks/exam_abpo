@@ -1,0 +1,6 @@
+.env
+/database/mysql
+/database/mariadb10
+/.fleet
+/.idea
+/.vscode
